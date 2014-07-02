@@ -6,7 +6,7 @@
 //  Copyright (c) 2012 Gurpartap Singh. All rights reserved.
 //
 
-#import "NSData+Base64.h"
+#import "NSData+Base64Additions.h"
 
 @implementation NSData (Base64Additions)
 
